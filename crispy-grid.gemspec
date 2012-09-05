@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "0.2.1"
-  s.date = "2012-04-24"
+  s.version = "0.2.2"
+  s.date = "2012-09-05"
 
   # Gem Details
   s.name = "crispy-grid"
@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
   # Gem Dependencies
   s.rubygems_version = %q{1.3.6}
-  s.add_dependency 'compass', '0.12.rc.0'
+  s.add_dependency 'compass', '>= 0.12'
   s.add_dependency 'sass', '>= 3.1.2'
 end
 
