@@ -1,3 +1,4 @@
+# encoding: UTF-8 
 Gem::Specification.new do |s|
   # Release Specific Information
   s.version = "0.2.3"
