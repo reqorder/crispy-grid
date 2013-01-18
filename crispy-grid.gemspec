@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
 
   # Gem Details
   s.name = "crispy-grid"
-  s.authors = ["Christian Peters", "Bernd Naehler"]
+  s.authors = ["Christian Peters","Bernd Naehler"]
   s.summary = %q{A Compass-based Grid that strives for lean & sane CSS and supports complex layouts}
   s.description = %q{In short, Crispy Grid closes the gap between easy-to-use grids for simple web pages and doing everything by hand due to layout complexity.}
   s.email = "bn@reqorder.com"
